@@ -1,0 +1,1 @@
+const v = document.querySelector('Ram');
